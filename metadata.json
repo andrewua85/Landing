@@ -1,0 +1,6 @@
+{
+  "name": "LegalRecovery",
+  "description": "Firma líder en derecho tecnológico y recuperación de activos perdidos en fraudes cripto y Forex, con análisis forense de blockchain y litigación internacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
